@@ -1,0 +1,8 @@
+- Utilize la IA para generar la estrucutura base del Proyecto.  ---> Estrucutura
+- Para generar script ---> script
+- Para comentar todo el codigo  ---> Comentarios
+- y otras consultas apartes integradas manualmente, como lo son:
+    1. hash de contraseñas con php.
+    2. Validacion de contraseñas.
+    4. Centrado de imagenes en contenedores.
+    5. solucion de errores.
