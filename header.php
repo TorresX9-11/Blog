@@ -1,5 +1,6 @@
 <header class="main-header">
     <div class="header-container">
+        
         <div class="logo">
             <a href="index.php">AquaBlog</a> <!-- Logo del sitio -->
         </div>
